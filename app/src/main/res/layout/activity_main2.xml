@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ba2364.takehomeassignment09_benjamina.MainActivity2">
+
+    <EditText
+        android:id="@+id/cheeseNameBox"
+        style="@style/EditTextStyle"
+        android:hint="@string/cheeseName" />
+
+    <EditText
+        android:id="@+id/cheesePlaceBox"
+        style="@style/EditTextStyle"
+        android:hint="@string/cheesePlace" />
+
+    <EditText
+        android:id="@+id/amountBox"
+        style="@style/EditTextStyle"
+        android:hint="@string/amount"
+        android:inputType="number" />
+
+    <CheckBox
+        android:id="@+id/smellBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/smell"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/firebaseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="addToFirebase"
+        android:text="@string/addToFirebase"
+        android:textSize="18sp"
+        android:layout_gravity="center"/>
+</LinearLayout>

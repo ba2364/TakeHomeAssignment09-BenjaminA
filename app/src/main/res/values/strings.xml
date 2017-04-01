@@ -1,0 +1,9 @@
+<resources> 
+    <string name="app_name">Cheese Maker</string> 
+    <string name="cheeseName">What is the cheese called?</string> 
+    <string name="cheesePlace">Where is the cheese from?</string> 
+    <string name="amount">How much cheese do you want?</string> 
+    <string name="smell">Is it a smelly cheese?</string> 
+    <string name="addNewCheese">Add a new Cheese</string> 
+    <string name="addToFirebase">Add Cheese to Firebase</string> 
+</resources>

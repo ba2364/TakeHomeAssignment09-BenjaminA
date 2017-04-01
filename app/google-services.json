@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520758086397",
+    "firebase_url": "https://takehomeassignment09-benjamina.firebaseio.com",
+    "project_id": "takehomeassignment09-benjamina",
+    "storage_bucket": "takehomeassignment09-benjamina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520758086397:android:0ae9aa2176a4a698",
+        "android_client_info": {
+          "package_name": "com.ba2364.takehomeassignment09_benjamina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520758086397-hjg1lg9cltmngj45u4hsvne7i66lij1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ba2364.takehomeassignment09_benjamina",
+            "certificate_hash": "129d3a5774714432af462eedd03315cf282f01bb"
+          }
+        },
+        {
+          "client_id": "520758086397-1t0b5rpnghbqosbr7ou1c7skkahf7m8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg467u5v0Tmqx5WLMKoxDl2OE8hTf9YbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520758086397-1t0b5rpnghbqosbr7ou1c7skkahf7m8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
